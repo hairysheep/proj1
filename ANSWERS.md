@@ -11,6 +11,8 @@ Digimon
 "/trainers/#{pokemon.trainer_id}" It needs the trainer id of the pokemon that was damaged
 # Question 5: Explain how putting this line "flash[:error] = @pokemon.errors.full_messages.to_sentence" shows error messages on your form.
 
+https://github.com/hairysheep/proj1
+
 # Give us feedback on the project and decal below!
 
 # Extra credit: Link your Heroku deployed app
